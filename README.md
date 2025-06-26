@@ -1,12 +1,39 @@
-# React + Vite
+# 🍽️ Evangadi Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive digital menu for Evangadi, built using **React** and **Vite**.  
+Easily adaptable to mobile, tablet, and desktop views.
 
-Currently, two official plugins are available:
+![preview](./preview.png) <!-- Optional: Replace with actual image if available -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [View on GitHub Pages](https://kalkidan-mu.github.io/evangadi-menu/)
+
+---
+
+## 📸 Features
+
+- 🧑‍🍳 Beautifully styled menu layout
+- 📱 Fully responsive design (mobile-first)
+- ⚛️ Built with modern React (v19) and Vite
+- ⚡ Fast build and optimized performance
+- 🎨 Easily customizable styling
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Vite
+- **Styling**: CSS 
+- **Deployment**: GitHub Pages
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kalkidan-mu/evangadi-menu.git
+   cd evangadi-menu
